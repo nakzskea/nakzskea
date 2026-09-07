@@ -1,9 +1,10 @@
 <img src="./banner.png" width="100%" alt="Banner"/>
 
-# 👋 Welcome to Milan's place 💻
+# 👋 Welcome to Milan's place
 
-Hi! I'm a developer at the public transport network of Metz, currently preparing the CDA (Concepteur Développeur d'Applications) certification.
-I work across dev, infrastructure and system administration - from building internal tools to running the servers they live on.
+Hi! I'm a developer at the public transport network of Metz, currently preparing the CDA (Concepteur Développeur d'Applications) certification.  
+I work across dev, infrastructure and system administration: from building internal tools to running the servers they live on.  
+I also worked with microcontroller units, in arduino and micropython.
 
 You can reach me there: [Milan Remy](https://www.linkedin.com/in/milan-remy-3458a6295/)
 
@@ -23,6 +24,6 @@ You can reach me there: [Milan Remy](https://www.linkedin.com/in/milan-remy-3458
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0F6CBD?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-### Projects
+### 🐉 Projects:
 
 - WIP
