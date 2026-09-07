@@ -5,9 +5,9 @@
 Hi! I'm a developer at the public transport network of Metz, currently preparing the CDA (Concepteur Développeur d'Applications) certification.
 I work across dev, infrastructure and system administration - from building internal tools to running the servers they live on.
 
-You can reach me there: [LinkedIn](https://www.linkedin.com/in/milan-remy-3458a6295/)
+You can reach me there: [Milan Remy](https://www.linkedin.com/in/milan-remy-3458a6295/)
 
-- 🌱 Currently working on a sovereign RAG system for the my company
+- 🌱 Currently working on a sovereign RAG system for my company
 - ⚡ Fun fact: big fan of the Inazuma Eleven franchise
 
 ### 🛠️ Languages and Tools:
@@ -23,6 +23,6 @@ You can reach me there: [LinkedIn](https://www.linkedin.com/in/milan-remy-3458a6
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0F6CBD?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-### 📈 GitHub Stats
+### Projects
 
-<img src="https://github-readme-stats.vercel.app/api?username=nakzskea&show_icons=true&theme=transparent&hide_border=true&hide_title=true" width="48%" />
+- WIP
