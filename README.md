@@ -6,7 +6,7 @@ Hi! I'm a full-stack developer at the public transport network of Metz, currentl
 I work across dev, infrastructure and system administration: from building internal tools to running the servers they live on.  
 I also worked with microcontroller units, in arduino and micropython.
 
-You can reach me [there](https://www.linkedin.com/in/milan-remy-3458a6295/), or check [my website](https://mremy-dev.fr)!
+You can reach me [there](https://www.linkedin.com/in/milan-remy-3458a6295/), send me a [mail](mailto:mremy-dev@gmail.com), or check [my website](https://mremy-dev.fr)!
 
 - 👤 22 years old
 - 🌱 Currently working as an apprentice Full-stack developer at LE MET' in Metz
