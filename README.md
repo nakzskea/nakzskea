@@ -10,7 +10,6 @@ You can reach me [there](https://www.linkedin.com/in/milan-remy-3458a6295/), sen
 
 - 👤 22 years old
 - 🌱 Currently working as an apprentice Full-stack developer at LE MET' in Metz
-- ⚡ Fun fact: big fan of the Inazuma Eleven franchise
 
 ### 🛠️ Languages and Tools:
 
