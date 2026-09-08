@@ -6,7 +6,7 @@ Hi! I'm a full-stack developer at the public transport network of Metz, currentl
 I work across dev, infrastructure and system administration: from building internal tools to running the servers they live on.  
 I also worked with microcontroller units, in arduino and micropython.
 
-You can reach me [there](https://www.linkedin.com/in/milan-remy-3458a6295/), or check [my website](https://www.linkedin.com/in/milan-remy-3458a6295/)!
+You can reach me [there](https://www.linkedin.com/in/milan-remy-3458a6295/), or check [my website]!
 
 - 👤 22 years old
 - 🌱 Currently working as an apprentice Full-stack developer at LE MET' in Metz
@@ -38,7 +38,7 @@ You can reach me [there](https://www.linkedin.com/in/milan-remy-3458a6295/), or 
 <td width="35%"><img src="./portfolio-milan.png" width="100%" alt="portfolio-milan"/></td>
 <td>
 
-**[My website](https://github.com/nakzskea/portfolio-milan)**
+**[My website](https://github.com/nakzskea/portfolio-milan)** [(link)] — *Personal project · 2026*
 
 Personal portfolio site with a presentation/skills page, a projects showcase and a contact page.
 
@@ -50,7 +50,7 @@ Personal portfolio site with a presentation/skills page, a projects showcase and
 <td width="35%"><img src="./site-ln.png" width="100%" alt="Dessine-moi un mouton"/></td>
 <td>
 
-**[Dessine-moi un mouton](https://github.com/nakzskea/Site-LN)** — *Client project · 2026*
+**[Dessine-moi un mouton](https://github.com/nakzskea/Site-LN)** [(link)] — *Client project · 2026*
 
 Website built for an illustrator (my girlfriend), with a FALC-friendly portfolio, illustration gallery and contact form.
 
