@@ -6,7 +6,7 @@ Hi! I'm a full-stack developer at the public transport network of Metz, currentl
 I work across dev, infrastructure and system administration: from building internal tools to running the servers they live on.  
 I also worked with microcontroller units, in arduino and micropython.
 
-You can reach me [there](https://www.linkedin.com/in/milan-remy-3458a6295/), or check [my website]!
+You can reach me [there](https://www.linkedin.com/in/milan-remy-3458a6295/), or check [my website](https://mremy-dev.fr)!
 
 - 👤 22 years old
 - 🌱 Currently working as an apprentice Full-stack developer at LE MET' in Metz
@@ -38,7 +38,7 @@ You can reach me [there](https://www.linkedin.com/in/milan-remy-3458a6295/), or 
 <td width="35%"><img src="./portfolio-milan.png" width="100%" alt="portfolio-milan"/></td>
 <td>
 
-**[My website](https://github.com/nakzskea/portfolio-milan)** [(link)] — *Personal project · 2026*
+**[My website](https://github.com/nakzskea/portfolio-milan)** [(link)](https://mremy-dev.fr) — *Personal project · 2026*
 
 Personal portfolio site with a presentation/skills page, a projects showcase and a contact page.
 
@@ -52,7 +52,7 @@ Personal portfolio site with a presentation/skills page, a projects showcase and
 
 **[Dessine-moi un mouton](https://github.com/nakzskea/Site-LN)** [(link)] — *Client project · 2026*
 
-Website built for an illustrator (my girlfriend), with a FALC-friendly portfolio, illustration gallery and contact form.
+Website built for an illustrator (my girlfriend 🤓), with a FALC portfolio, illustration gallery and contact form.
 
 `HTML` `CSS` `JavaScript` `PHP`
 
