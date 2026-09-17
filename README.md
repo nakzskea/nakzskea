@@ -38,7 +38,7 @@ You can reach me [there](https://www.linkedin.com/in/milan-remy-3458a6295/), sen
 <td width="35%"><img src="./portfolio-milan.png" width="100%" alt="portfolio-milan"/></td>
 <td>
 
-**[My website](https://github.com/nakzskea/portfolio-milan)** — *Personal project · 2026* [(link)](https://mremy-dev.fr)
+**[My website](https://github.com/nakzskea/portfolio-milan)** — *Personal project · 2026* — [(link)](https://mremy-dev.fr)
 
 Personal portfolio site with a presentation/skills page, a projects showcase and a contact page.
 
@@ -50,7 +50,7 @@ Personal portfolio site with a presentation/skills page, a projects showcase and
 <td width="35%"><img src="./site-ln.png" width="100%" alt="Dessine-moi un mouton"/></td>
 <td>
 
-**[Dessine-moi un mouton](https://github.com/nakzskea/Site-LN)** — *Client project · 2026* [(link)]
+**[Dessine-moi un mouton](https://github.com/nakzskea/Site-LN)** — *Client project · 2026* — [(link)]
 
 Website built for an illustrator (my girlfriend 🤓), with a FALC portfolio, illustration gallery and contact form.
 
