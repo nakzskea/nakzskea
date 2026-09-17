@@ -31,7 +31,7 @@ You can reach me [there](https://www.linkedin.com/in/milan-remy-3458a6295/), sen
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 🐉 Projects:
+### 🐉 Public projects:
 
 <table>
 <tr>
