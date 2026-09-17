@@ -42,7 +42,7 @@ You can reach me [there](https://www.linkedin.com/in/milan-remy-3458a6295/), sen
 
 Personal portfolio site with a presentation/skills page, a projects showcase and a contact page.
 
-`Next.JS` `Tailwind` `TypeScript` `JavaScript`
+`Next.JS` `Tailwind` `TypeScript` `JavaScript` `Vercel`
 
 </td>
 </tr>
@@ -54,7 +54,7 @@ Personal portfolio site with a presentation/skills page, a projects showcase and
 
 Website built for an illustrator (my girlfriend 🤓), with a FALC portfolio, illustration gallery and contact form.
 
-`HTML` `CSS` `JavaScript` `PHP`
+`HTML` `CSS` `JavaScript` `PHP` `OVH` `GitHub Actions`
 
 </td>
 </tr>
