@@ -50,7 +50,7 @@ Personal portfolio site with a presentation/skills page, a projects showcase and
 <td width="35%"><img src="./site-ln.png" width="100%" alt="Dessine-moi un mouton"/></td>
 <td>
 
-**[Dessine-moi un mouton](https://github.com/nakzskea/Site-LN)** — *Client project · 2026* — [(link)]
+**[Dessine-moi un mouton](https://github.com/nakzskea/Site-LN)** — *Client project · 2026* — [(link)](https://dmum-falc.fr)
 
 Website built for an illustrator (my girlfriend 🤓), with a FALC portfolio, illustration gallery and contact form.
 
