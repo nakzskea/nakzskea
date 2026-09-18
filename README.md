@@ -11,7 +11,7 @@ You can reach me [there](https://www.linkedin.com/in/milan-remy-3458a6295/), sen
 - 👤 22 years old
 - 🌱 Currently working as an apprentice Full-stack developer at LE MET' in Metz
 
-### 🛠️ Languages and Tools:
+## 🛠️ Languages and Tools:
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -31,14 +31,14 @@ You can reach me [there](https://www.linkedin.com/in/milan-remy-3458a6295/), sen
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 🐉 Public projects:
-
+## 🐉 Public projects:
+### 2026:
 <table>
 <tr>
 <td width="35%"><img src="./portfolio-milan.png" width="100%" alt="portfolio-milan"/></td>
 <td>
 
-**[My website](https://github.com/nakzskea/portfolio-milan)** — *Personal project · 2026* — [(link)](https://mremy-dev.fr)
+**[My website](https://github.com/nakzskea/portfolio-milan)** — *Personal project* — [(link)](https://mremy-dev.fr)
 
 Personal portfolio site with a presentation/skills page, a projects showcase and a contact page.
 
@@ -50,7 +50,7 @@ Personal portfolio site with a presentation/skills page, a projects showcase and
 <td width="35%"><img src="./site-ln.png" width="100%" alt="Dessine-moi un mouton"/></td>
 <td>
 
-**[Dessine-moi un mouton](https://github.com/nakzskea/Site-LN)** — *Client project · 2026* — [(link)](https://dmum-falc.fr)
+**[Dessine-moi un mouton](https://github.com/nakzskea/Site-LN)** — *Hélène Languerand* — [(link)](https://dmum-falc.fr)
 
 Website built for an illustrator (my girlfriend 🤓), with a FALC portfolio, illustration gallery and contact form.
 
@@ -58,11 +58,16 @@ Website built for an illustrator (my girlfriend 🤓), with a FALC portfolio, il
 
 </td>
 </tr>
-<tr>
+
+</table>
+
+### 2025:
+<table>
+  <tr>
 <td width="35%"><img src="./beeathlon.png" width="100%" alt="BeeAthlon"/></td>
 <td>
 
-**[BeeAthlon](https://github.com/nakzskea/BeeAthlonBackup)** — *FabLab MDesign · 2025*
+**[BeeAthlon](https://github.com/nakzskea/BeeAthlonBackup)** — *FabLab MDesign*
 
 An ecological-themed laser biathlon project: electronics and a local web interface showing the readings.
 Backup repository to explain how to use and edit the devices.
