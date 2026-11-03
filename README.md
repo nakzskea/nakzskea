@@ -43,7 +43,7 @@ You can reach me [there](https://www.linkedin.com/in/milan-remy-3458a6295/), sen
 
 Personal portfolio site with a presentation/skills page, a projects showcase and a contact page.
 
-`Next.JS` `Tailwind` `TypeScript` `JavaScript` `Vercel`
+`Next.js` `Tailwind` `TypeScript` `JavaScript` `Vercel`
 
 </td>
 </tr>
@@ -68,7 +68,7 @@ Website built for an illustrator (my girlfriend 🤓), with a FALC portfolio, il
 
 Real-time next departures for Paris metro and tram, displayed like the RATP platform screens. Pick a line and a stop, save favourites, installable as a mobile web app.
 
-`Next.JS` `TypeScript` `React` `PRIM API (IDFM)` `Open data` `Vercel`
+`Next.js` `TypeScript` `React` `PRIM API (IDFM)` `Open data` `Vercel`
 
 </td>
 </tr>
