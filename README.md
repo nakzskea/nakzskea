@@ -60,6 +60,19 @@ Website built for an illustrator (my girlfriend 🤓), with a FALC portfolio, il
 </td>
 </tr>
 
+<tr>
+<td width="35%"><img src="./metro-idf-biv.png" width="100%" alt="metro-idf-biv"/></td>
+<td>
+
+**[Metro IDF BIV](https://github.com/nakzskea/metro-idf-biv)** — *Personal project* — [(link)](https://metro-idf-biv.vercel.app/)
+
+Real-time next departures for Paris metro and tram, displayed like the RATP platform screens. Pick a line and a stop, save favourites, installable as a mobile web app.
+
+`Next.JS` `TypeScript` `React` `PRIM API (IDFM)` `Open data` `Vercel`
+
+</td>
+</tr>
+
 </table>
 
 ### 2025:
