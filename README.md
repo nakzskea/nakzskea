@@ -31,6 +31,9 @@ You can reach me [there](https://www.linkedin.com/in/milan-remy-3458a6295/), sen
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![OVH](https://img.shields.io/badge/OVH-000E9C?style=for-the-badge&logo=ovh&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white)
+![Discord API](https://img.shields.io/badge/Discord%20API-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ## 🐉 Public projects:
 ### 2026:
@@ -69,6 +72,19 @@ Website built for an illustrator (my girlfriend 🤓), with a FALC portfolio, il
 Real-time next departures for Paris metro and tram, displayed like the RATP platform screens. Pick a line and a stop, save favourites, installable as a mobile web app.
 
 `Next.js` `TypeScript` `React` `PRIM API (IDFM)` `Open data` `Vercel`
+
+</td>
+</tr>
+
+<tr>
+<td width="35%"><img src="./hissatsu-bot.png" width="100%" alt="hissatsu-bot"/></td>
+<td>
+
+**[Hissatsu Bot - Hurley Kane](https://github.com/nakzskea/hissatsu-bot)** — *Personal project*
+
+Discord quiz bot hosted by Hurley Kane from Inazuma Eleven: a daily guess-the-technique question with 4 choices, private answers, a leaderboard and a practice command. Fully serverless and free to run, using data from [HissatsuDle](https://github.com/nakzskea/hissatsudle).
+
+`Python` `JavaScript` `Discord API` `Cloudflare Workers` `Cloudflare KV` `GitHub Actions`
 
 </td>
 </tr>
